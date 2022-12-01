@@ -1,0 +1,6 @@
+[submodule "weight-refit"]
+	path = weight-refit
+	url = https://gitee.com/cambricon/weight-refit.git
+[submodule "cnpeak"]
+	path = cnpeak
+	url = https://gitee.com/cambricon/cnpeak.git
