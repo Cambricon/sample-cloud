@@ -8,7 +8,7 @@ Cambricon sample_cloud是由寒武纪开发和维护的云端应用示例。
 
 #### 使用说明
 
-Cambricon ModelZoo仓库包含5个子仓库，分别是 magicmind_cloud_modelzoo，magicmind_edge_modelzoo ， cambricon_pytorch_modelzoo，cambricon_tensorflow_modelzoo 和 paddle_mlu_modelzoo 您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
+Cambricon sample_cloud仓库目前包含2个子仓库，分别是 cnpeak ， weight_refit，您可以直接克隆本仓库，或者分别克隆需要的子仓库，并根据子仓库的README指引进行评测和开发。
 
 
 | 子仓库  | 说明 |
