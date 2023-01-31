@@ -6,4 +6,4 @@
 	url = https://gitee.com/cambricon/cnpeak.git
 [submodule "cnindex"]
 	path = cnindex
-	url = http://gitlab.software.cambricon.com/neuware/software/ae/ecosystem/application/application_cloud/cnindex.git
+	url = https://gitee.com/cambricon/cnindex.git
