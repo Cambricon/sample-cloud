@@ -7,3 +7,6 @@
 [submodule "cnindex"]
 	path = cnindex
 	url = https://gitee.com/cambricon/cnindex.git
+[submodule "transcode"]
+	path = transcode
+	url = https://gitee.com/cambricon/transcode.git
