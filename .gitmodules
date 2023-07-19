@@ -10,3 +10,6 @@
 [submodule "transcode"]
 	path = transcode
 	url = https://gitee.com/cambricon/transcode.git
+[submodule "stablediffusion_mlu"]
+	path = stablediffusion_mlu
+	url = https://gitee.com/xiaoqi25478/stablediffusion_mlu.git
