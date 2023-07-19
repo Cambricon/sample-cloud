@@ -15,6 +15,7 @@ Cambricon sample_cloud是由寒武纪开发和维护的云端应用示例。
 | ------------- | ------------- |
 | [cnindex](https://gitee.com/cambricon/cnindex) | 基于寒武纪机器学习单元（MLU）以及寒武纪CNNL_EXTRA 对各类向量相似度搜索应用场景提供向量搜索的计算库 | 
 | [cnpeak](https://gitee.com/cambricon/cnpeak) | 基于流水线的简易框架，通过在流水线上安装各种插件，可以实现不同的业务流程 | 
+| [stablediffusion_mlu](https://gitee.com/xiaoqi25478/stablediffusion_mlu) | 基于寒武纪自研推理引擎magicmind在StableDiffusion当中的应用示例 | 
 | [transcode](https://gitee.com/cambricon/transcode) | 使用cncodec实现视频转码，支持多输入，多输出 | 
 | [weight_refit](https://gitee.com/cambricon/weight-refit) | 基于寒武纪自研推理引擎magicmind在权值热更新应用示例 | 
 
